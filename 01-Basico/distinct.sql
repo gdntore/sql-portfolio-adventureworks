@@ -1,3 +1,3 @@
 SELECT DISTINCT
-LastName
+  LastName
 FROM Person.Person;
